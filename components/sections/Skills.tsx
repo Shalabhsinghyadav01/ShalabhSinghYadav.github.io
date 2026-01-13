@@ -7,8 +7,7 @@ import { skills } from "@/lib/data";
 
 const skillCategories = [
   { title: "Languages & Methodologies", items: skills.languages },
-  { title: "Tools & Platforms", items: skills.tools },
-  { title: "Frameworks & Libraries", items: skills.frameworks },
+  { title: "Tools, Platforms & Frameworks", items: [...skills.tools, ...skills.frameworks] },
 ];
 
 export default function Skills() {
