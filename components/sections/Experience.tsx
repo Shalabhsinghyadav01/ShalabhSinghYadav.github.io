@@ -104,7 +104,7 @@ export default function Experience() {
           className="mt-12"
         >
           <a
-            href="/resume.pdf"
+            href="https://drive.google.com/uc?export=download&id=1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-primary-400 hover:text-primary-300 transition-colors text-base font-normal"

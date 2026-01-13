@@ -68,7 +68,7 @@ export default function Hero() {
               Get In Touch
             </a>
             <a
-              href="/resume.pdf"
+              href="https://drive.google.com/uc?export=download&id=1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary-400 hover:text-primary-300 transition-colors duration-200 text-sm font-normal inline-flex items-center gap-1.5"
