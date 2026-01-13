@@ -6,6 +6,7 @@ import { useRef, useState } from "react";
 import { projects } from "@/lib/data";
 import { ExternalLink, Github } from "lucide-react";
 import Image from "next/image";
+import { getImagePath } from "@/lib/utils";
 
 export default function Projects() {
   const ref = useRef(null);
@@ -58,7 +59,7 @@ export default function Projects() {
                     {project.imageUrl ? (
                       <div className="relative w-full h-full max-w-[140px] max-h-[140px]">
                         <Image
-                          src={project.imageUrl}
+                          src={getImagePath(project.imageUrl)}
                           alt={project.title}
                           fill
                           className="object-contain"
