@@ -68,7 +68,7 @@ export default function Hero() {
               Get In Touch
             </a>
             <a
-              href="https://drive.google.com/uc?export=download&id=1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7"
+              href="https://drive.google.com/file/d/1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="text-primary-400 hover:text-primary-300 transition-colors duration-200 text-sm font-normal inline-flex items-center gap-1.5"

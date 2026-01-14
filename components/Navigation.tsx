@@ -54,7 +54,7 @@ export default function Navigation() {
               </a>
             ))}
             <a
-              href="https://drive.google.com/uc?export=download&id=1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7"
+              href="https://drive.google.com/file/d/1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="px-4 py-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors duration-200 text-sm font-medium"
@@ -100,7 +100,7 @@ export default function Navigation() {
                 </a>
               ))}
               <a
-                href="https://drive.google.com/uc?export=download&id=1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7"
+                href="https://drive.google.com/file/d/1fi3kS57yrB-k13ZH1DUkz3FFS69fElb7/view?usp=drive_link"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="block px-4 py-2 bg-primary-600 hover:bg-primary-700 text-white rounded-lg transition-colors duration-200 text-center"
