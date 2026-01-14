@@ -63,16 +63,16 @@ export const experiences: ExperienceItem[] = [
     ],
   },
   {
-    company: "R.S Traders",
-    position: "Software Developer – Applied Data Analytics",
+    company: "R.S. Traders",
+    position: "Founder & Software Engineer – Data Analytics Systems (Project Demo)",
     location: "Indore, India",
     startDate: "Jan 2021",
     endDate: "Mar 2023",
     description: [
-      "Built comprehensive data pipelines and interactive dashboards to convert raw operational data into structured analytical datasets. These systems enabled real-time monitoring and data-driven decision-making for business operations, providing stakeholders with timely insights into key performance indicators and operational metrics",
-      "Applied statistical and predictive modeling techniques to study demand forecasting, inventory movement patterns, and operational efficiency. These analyses resulted in improved inventory management strategies, reduced stockouts, and optimized supply chain operations, leading to cost savings and improved customer satisfaction",
-      "Implemented robust data validation checks and quality assurance processes to improve analytical reliability and reproducibility. These measures ensured data integrity across all analytical outputs, reducing errors and increasing confidence in decision-making processes based on the analytical results",
-      "Collaborated closely with stakeholders including management and operations teams to translate complex analytical findings into actionable insights and strategic recommendations. This collaboration supported data-driven decision-making across the organization, helping bridge the gap between technical analysis and business strategy",
+      "Founded and built an end-to-end data analytics platform from scratch, owning system design, data pipelines, and dashboards to replace manual, spreadsheet-driven operations. This comprehensive platform transformed the company's operational workflow, eliminating manual data entry and enabling automated, data-driven decision-making processes",
+      "Designed automated data ingestion and validation workflows that converted fragmented operational data into reliable analytical datasets supporting repeatable analysis. These workflows ensured data quality and consistency, enabling stakeholders to trust and act upon the analytical insights generated from the platform",
+      "Applied statistical and predictive modeling techniques to analyze demand and inventory behavior, improving planning decisions and operational visibility. These models provided actionable insights that directly influenced business strategy, leading to more efficient inventory management and better demand forecasting",
+      "Balanced technical execution with business constraints by iterating directly with users, translating analytical insights into actionable workflows adopted in daily operations. This user-centric approach ensured the platform met real business needs and was successfully integrated into the organization's operational processes",
     ],
     technologies: [
       "Python",
